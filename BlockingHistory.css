@@ -1,0 +1,14 @@
+th, td {
+    font-size: smaller;
+}
+
+#wait {
+	float: left;
+	height: 16px;
+	width: 24px;
+}
+
+#blockHistDiv {
+	clear: both;
+	padding-top: 15px;
+}
